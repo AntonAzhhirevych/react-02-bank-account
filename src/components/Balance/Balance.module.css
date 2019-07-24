@@ -1,0 +1,12 @@
+.balance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.balance_spn {
+  margin-right: 30px;
+  font-size: 20px;
+  color: #424242;
+}
