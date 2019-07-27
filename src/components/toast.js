@@ -13,4 +13,6 @@ const notifyB = () =>
 
 const notifyC = () => toast.success('Операция успешна!', {});
 
-export { notifyA, notifyB, notifyC };
+const notifyD = () => toast.error('Некорректный ввод!', {});
+
+export { notifyA, notifyB, notifyC, notifyD };
