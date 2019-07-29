@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { notifyA, notifyB, notifyC, notifyD } from '../toast';
+import { notifyA, notifyB, notifyC, notifyD } from '../Notification/toast';
 import styles from './Controls.module.css';
 
 class Controls extends Component {
